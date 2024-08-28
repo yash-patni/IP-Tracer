@@ -9,7 +9,7 @@ IP Tracer is a straightforward web application designed to provide you with real
 
 <p align="center">
   <a href="https://www.iptracer.me">
-    <img src="website" alt="IP Tracer Screenshot" width="80%">
+    <img src="IP Tracer/website.png" alt="IP Tracer Screenshot" width="80%">
   </a>
 </p>
 
