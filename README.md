@@ -8,8 +8,8 @@
 IP Tracer is a straightforward web application designed to provide you with real-time information about your current IP address. Its simplicity and user-friendly interface make it a useful tool for quick IP address checks. Additionally, IP Tracer allows you to copy your IP address to the clipboard with a single click, streamlining the process.
 
 <p align="center">
-  <a href="https://www.iptracer.me">
-    <img src="IP Tracer/website.png" alt="IP Tracer Screenshot" width="80%">
+  <a href="https://yash-patni.github.io/IP-Tracer/">
+    <img src="IP Tracer/iptracer.png" alt="IP Tracer Screenshot" width="80%">
   </a>
 </p>
 
@@ -27,13 +27,13 @@ IP Tracer is a straightforward web application designed to provide you with real
 
 ### Installation
 
-IP Tracer does not require any installation. Simply visit the website [www.iptracer.me](https://www.iptracer.me) in your web browser, and the application will automatically display your current IP address.
+IP Tracer does not require any installation. Simply visit the website [https://yash-patni.github.io/IP-Tracer/](https://yash-patni.github.io/IP-Tracer/) in your web browser, and the application will automatically display your current IP address.
 
 ## Usage
 
 1. Open your preferred web browser.
 
-2. Visit [www.iptracer.me](https://www.iptracer.me).
+2. Visit [https://yash-patni.github.io/IP-Tracer/](https://yash-patni.github.io/IP-Tracer/)
 
 3. Your current IP address will be displayed in real time on the website.
 
